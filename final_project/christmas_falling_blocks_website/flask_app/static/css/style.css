@@ -1,0 +1,54 @@
+.container {
+    margin-top: 15px;
+    color: green;
+}
+
+.row9 {
+    float: right;
+}
+
+.row5 {
+    margin-top: 105px;
+    margin-left: 500px;
+    margin-right: 400px;
+    padding: 10px;
+    border: 10;
+    border-color: black;
+    border-style: solid;
+    color: black;
+
+}
+
+.container-dashboard {
+    border: 10;
+    border-color: black;
+    border-style: solid;
+}
+
+.row8 {
+    margin-top: 50px;
+    margin-left: 270px;
+    margin-right: 200px;
+    padding: 10px;
+
+}
+
+.row12 {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 200px;
+    padding: 5px;
+    text-align: center;
+}
+
+.row15 {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 200px;
+    padding: 5px;
+    text-align: center;
+    border: 10;
+    border-color: black;
+    border-style: solid;
+    color: black;
+}
